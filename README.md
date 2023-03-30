@@ -9,7 +9,7 @@ Search does not work without System input. Works fine with the System input.
 
 If you notice any bugs at any point in your time using the program, send me an email through the email form on owlbytes.ca through either the home page, or Contact page.
 
-================
+
 How do I use it?
 ================
 Your database of games will be displayed in the console, following the format of
